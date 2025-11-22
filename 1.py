@@ -1,4 +1,1 @@
-print("Hello Git")
-print("hi Ivan")
-
-print('asevgqewrbv')
+print('1.py')
