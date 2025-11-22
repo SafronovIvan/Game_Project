@@ -1,2 +1,1 @@
-print("Hello Git")
-print("hi Ivan")
+print('1.py')
